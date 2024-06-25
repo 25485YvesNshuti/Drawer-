@@ -3,11 +3,18 @@ This Flutter project demonstrates how to implement a navigation drawer with a ha
 ##**Getting Started**##
 To run this project locally, follow these steps:
 
+
+
 ##**Prerequisites**##
 Make sure you have Flutter installed. For installation instructions, visit the Flutter Installation Guide.
 
 #**Clone the Repository**##
 Clone this repository to your local machine using Git:
+git clone https://github.com/your-username/flutter_navigation_drawer.git
+cd flutter_navigation_drawer
+##**Run the Application**##
+Run the following command to install dependencies and start the application:
+flutter run
 
 bash
 Copy code
