@@ -6,7 +6,8 @@ To run this project locally, follow these steps:
 
 
 ##**Prerequisites**##
-Make sure you have Flutter installed. For installation instructions, visit the Flutter Installation Guide.
+
+Make sure you have Flutter installed. For installation instructions, visit the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
 
 #**Clone the Repository**##
 Clone this repository to your local machine using Git:
